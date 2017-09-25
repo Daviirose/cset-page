@@ -55,3 +55,32 @@ font-family: 'Roboto Mono', monospace;
 .copy {
   font-family: "Georgia", serif;
 }
+.site-header {
+  background-color: #03151c;
+  height: 76px;
+}
+.nav-links li {
+  display: inline-block;
+  padding: 25px 20px 25px 20px;
+}
+nav {
+  display: inline-block;
+  float: right;
+}
+.logo {
+  display: inline-block;
+}
+.nav-link {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 14px;
+  color: #14e9b6;
+  text-decoration: none;
+}
+.nav-link:hover {
+  text-decoration: underline;
+  color: white;
+}
+.header-nav {
+  display: inline-block;
+  float: right;
+}
